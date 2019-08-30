@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Character component renders a App 1`] = `
+<div>
+  <img
+    src="url"
+  />
+  <p>
+    anng
+  </p>
+</div>
+`;
